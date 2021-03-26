@@ -1,0 +1,5 @@
+.gitattributes
+/bfg-1.14.0.jar
+
+# Jupyter Notebook
+.ipynb_checkpoints
